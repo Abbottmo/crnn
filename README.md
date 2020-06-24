@@ -4,6 +4,7 @@
 - PyTorch 1.2.0(inner ctc loss)   
 - without warp-ctc 
 - without lmdb（with many bugs on python3）
+- 中文训练类别太多。。。实际部署需要对应字体的文本，相关语境的文字
 
 ## Dev Environments
 
