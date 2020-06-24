@@ -1,9 +1,9 @@
 # Characters Recognition
 
-pytroch1.2 python 3 可用的crnn 训练代码 
-PyTorch 1.2.0(inner ctc loss)   
-without warp-ctc 
-without lmdb（with many bugs on python3）
+- pytroch1.2 python 3 可用的crnn 训练代码 
+- PyTorch 1.2.0(inner ctc loss)   
+- without warp-ctc 
+- without lmdb（with many bugs on python3）
 
 ## Dev Environments
 
